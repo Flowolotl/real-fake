@@ -1,0 +1,63 @@
+{
+    "bulbasaur": {
+        "name": "bulbasaur",
+        "base_experience": 64,
+        "weight": 69,
+        "height": 7,
+        "id": 1,
+        "moves": {
+            "razor-wind": 13
+        },
+        "types": {
+            "0": {
+                "name": "grass",
+                "id": 12
+            },
+            "1": {
+                "name": "poison",
+                "id": 4
+            }
+        },
+        "abilities": {
+            "0": {
+                "name": "overgrow",
+                "id": 65,
+                "hidden": false
+            },
+            "1": {
+                "name": "chlorophyll",
+                "id": 34,
+                "hidden": true
+            }  
+        },
+        "species": {
+            "bulbasaur": 1
+        },
+        "stats": {
+            "hp": {
+                "base": 45,
+                "effort": 0
+            },
+            "attack": {
+                "base": 49,
+                "effort": 0
+            },
+            "defense": {
+                "base": 49,
+                "effort": 0
+            },
+            "special-attack": {
+                "base": 65,
+                "effort": 1
+            },
+            "special-defense": {
+                "base": 65,
+                "effort": 0
+            },
+            "speed": {
+                "base": 45,
+                "effort": 0
+            }
+        }
+    }
+}
